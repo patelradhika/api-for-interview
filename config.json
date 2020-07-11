@@ -1,0 +1,10 @@
+{
+    "token": {
+        "secret": "secretapplication",
+        "expiresInSeconds": "3600"
+    },
+    "database": {
+        "key": "1DYFOSZkhj9eD6yv",
+        "name": "interviewDB"
+    }
+}
