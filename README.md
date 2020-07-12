@@ -52,7 +52,9 @@ POST
 #### Request URL:
 http://api-for-interview.herokuapp.com/api/services/agent-client
 #### Request Header:
+```
 Authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhZGhpa2FwYXRlbCIsImlhdCI6MTU5NDUzMDQzOCwiZXhwIjoxNTk0NTM0MDM4fQ.J-I6BpeRilPQgoaO6m1JXJs5cpMOYTCPeWGQ0sXkVCo"
+```
 #### Request Body:
 ```
 {
@@ -93,7 +95,9 @@ PUT
 #### Request URL:
 http://api-for-interview.herokuapp.com/api/services/client
 #### Request Header:
+```
 Authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhZGhpa2FwYXRlbCIsImlhdCI6MTU5NDUzMDQzOCwiZXhwIjoxNTk0NTM0MDM4fQ.J-I6BpeRilPQgoaO6m1JXJs5cpMOYTCPeWGQ0sXkVCo"
+```
 #### Request Body:
 ```
 {
