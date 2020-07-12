@@ -45,6 +45,7 @@ http://api-for-interview.herokuapp.com/api/user/login
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhZGhpa2FwYXRlbCIsImlhdCI6MTU5NDUzMDQzOCwiZXhwIjoxNTk0NTM0MDM4fQ.J-I6BpeRilPQgoaO6m1JXJs5cpMOYTCPeWGQ0sXkVCo"
 }
 ```
+**Note:** Token is vaild for 1 hour only. After 1 hour you need to login again to get new token. 
 
 ## API EndPoint 3:
 #### Request Type:
